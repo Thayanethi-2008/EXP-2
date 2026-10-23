@@ -49,19 +49,21 @@ Procedure for Load test:
 
 Tabulation for Open Circuit Test:
 
-<img width="1363" height="1538" alt="open circuit table" src="https://github.com/user-attachments/assets/0d4116be-2085-4a9c-a0ff-4e5ed7daea6d" />
+<img width="1538" height="1363" alt="open circuit table" src="https://github.com/user-attachments/assets/3bf33da7-f290-4c80-a84a-3723fe24970b" />
+
 
 
 Tabulation for Load Test:
 
-<img width="1198" height="1334" alt="Load circuit table" src="https://github.com/user-attachments/assets/95aaa6cd-03f3-4dc9-9460-0b3357f7117f" />
+<img width="1334" height="1198" alt="Load circuit table" src="https://github.com/user-attachments/assets/64d28e00-348d-499a-b26b-c198e8ed9ff3" />
+
 
 
 Model graph:
 
-<img width="1149" height="1600" alt="open circuit graph" src="https://github.com/user-attachments/assets/2756b691-142b-4661-9224-8006aebc3411" />
+<img width="1600" height="1149" alt="open circuit graph" src="https://github.com/user-attachments/assets/27455d75-b16d-497e-9364-afea281903aa" />
 
-<img width="1212" height="1600" alt="load circiut graph" src="https://github.com/user-attachments/assets/e9242602-f1b3-4aeb-858f-a29651bef33f" />
+<img width="1600" height="1212" alt="load circiut graph" src="https://github.com/user-attachments/assets/cbe2c84a-74d8-45b2-a6db-79d5a3e879f9" />
 
 Open circuit characteristics:
 
